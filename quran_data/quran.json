@@ -1,0 +1,23 @@
+{
+    "1": {
+        "name": "Al-Fatiha",
+        "verses": [
+            {
+                "ayah": 1,
+                "text": "In the name of Allah—the Most Compassionate, Most Merciful."
+            },
+            {
+                "ayah": 2,
+                "text": "All praise is for Allah—Lord of all worlds,"
+            },
+            {
+                "ayah": 3,
+                "text": "The Most Compassionate, Most Merciful,"
+            },
+            {
+                "ayah": 4,
+                "text": "Master of the Day of Judgment."
+            }
+        ]
+    }
+}
