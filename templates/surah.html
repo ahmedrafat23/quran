@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>{{ surah.name }}</title>
+</head>
+
+<body>
+    <h1>سورة {{ surah.name }}</h1>
+    <ul>
+        {% for verse in surah.verses %}
+        <li><strong>{{ verse.ayah }}.</strong> {{ verse.text }}</li>
+        {% endfor %}
+    </ul>
+    <a href="/">عودة</a>
+</body>
+
+</html>

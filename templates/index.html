@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>MyQuran</title>
+</head>
+
+<body>
+    <h1>القرآن الكريم</h1>
+    <ul>
+        {% for surah_id, surah in quran.items() %}
+        <li><a href="/surah/{{ surah_id }}">{{ surah_id }} - {{ surah.name }}</a></li>
+        {% endfor %}
+    </ul>
+</body>
+
+</html>
