@@ -1,3 +1,5 @@
+<img width="1024" height="1024" alt="ChatGPT Image Jul 27, 2025, 09_29_00 AM" src="https://github.com/user-attachments/assets/a05ed3f6-bdb5-46f9-aa45-8bbdd2fd99ed" />
+
 # 📖 MyQuran – Your Personal Quran Companion
 
 ![MyQuran Logo](https://img.icons8.com/fluency/96/quran.png)
